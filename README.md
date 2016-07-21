@@ -68,3 +68,6 @@ Abstractions should not depend on details. Details should depend on abstractions
 ##References
 1. http://www.oodesign.com/design-principles.html
 2. http://beginnersbook.com/2013/03/oops-in-java-encapsulation-inheritance-polymorphism-abstraction/
+3. https://en.wikipedia.org/wiki/Hash_table
+4. http://www.tutorialspoint.com/cprogramming/c_arrays.htm
+5. https://en.wikipedia.org/wiki/Binary_tree
