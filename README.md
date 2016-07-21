@@ -46,6 +46,9 @@ These design patterns are specifically concerned with communication between obje
 2. Strategy Pattern
 3. Chain of Responsibility
 
+##Principles of Object Oriented Programming
+1. **Encapsulation** - dfas
+
 ##SOLID Principles
 
 1. SRP The Single Responsibility Principle A class should have one, and only one, reason to change.
@@ -56,3 +59,7 @@ These design patterns are specifically concerned with communication between obje
 
 High-level modules should not depend on low-level modules. Both should depend on abstractions.
 Abstractions should not depend on details. Details should depend on abstractions.
+
+##References
+1. http://www.oodesign.com/design-principles.html
+2. http://beginnersbook.com/2013/03/oops-in-java-encapsulation-inheritance-polymorphism-abstraction/
