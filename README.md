@@ -19,6 +19,8 @@ Insert − Algorithm to insert item in a datastructure
 Update − Algorithm to update an existing item in a data structure
 Delete − Algorithm to delete an existing item from a data structure
 
+##What is Object
+In programming terms, an object is a self-contained component that contains properties and methods needed to make a certain type of data useful. An object’s properties are what it knows and its methods are what it can do. The project management application mentioned above had a status object, a cost object, and a client object, among others. One property of the status object would be the current status of the project. The status object would have a method that could update that status. The client object’s properties would include all of the important details about the client and its methods would be able to change them. The cost object would have methods necessary to calculate the project’s cost based on hours worked, hourly rate, materials cost, and fees.
 
 ##Design Patterns
 
@@ -47,7 +49,10 @@ These design patterns are specifically concerned with communication between obje
 3. Chain of Responsibility
 
 ##Principles of Object Oriented Programming
-1. **Encapsulation** - dfas
+1. **Encapsulation** - is an Object Oriented Programming concept that binds together the data and functions that manipulate the data, and that keeps both safe from outside interference and misuse. Data encapsulation led to the important OOP concept of data hiding.
+2. **Abstraction** - is one of three central principles (along with encapsulation and inheritance). Through the process of abstraction, a programmer hides all but the relevant data about an object in order to reduce complexity and increase efficiency.
+3. **Inheritance** - In object-oriented programming, inheritance enables new objects to take on the properties of existing objects. A class that is used as the basis for inheritance is called a superclass or base class. A class that inherits from a superclass is called a subclass or derived class. The terms parent class and child class are also acceptable terms to use respectively. A child inherits visible properties and methods from its parent while adding additional properties and methods of its own.
+4. **Polymorphism** - Polymorphism means to process objects differently based on their data type. Polymorphism is a Greek word that means "many-shaped". 
 
 ##SOLID Principles
 
