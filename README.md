@@ -48,11 +48,11 @@ These design patterns are specifically concerned with communication between obje
 
 ##SOLID Principles
 
-SRP The Single Responsibility Principle A class should have one, and only one, reason to change.
-OCP	The Open Closed Principle	You should be able to extend a classes behavior, without modifying it.
-LSP	The Liskov Substitution Principle	Child classes must be able to override parent classes references without any problems.
-ISP	The Interface Segregation Principle	Make fine grained interfaces that are client specific. Clients should not be forced to depend upon interfaces that they don't use.
-DIP	The Dependency Inversion Principle
+1. SRP The Single Responsibility Principle A class should have one, and only one, reason to change.
+2. OCP	The Open Closed Principle	You should be able to extend a classes behavior, without modifying it.
+3. LSP	The Liskov Substitution Principle	Child classes must be able to override parent classes references without any problems.
+4. ISP	The Interface Segregation Principle	Make fine grained interfaces that are client specific. Clients should not be forced to depend upon interfaces that they don't use.
+5. DIP	The Dependency Inversion Principle
 
 High-level modules should not depend on low-level modules. Both should depend on abstractions.
 Abstractions should not depend on details. Details should depend on abstractions.
