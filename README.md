@@ -1,16 +1,16 @@
 # Computer Science and Programming Notes
 
 ## Data Structures
-Linked List
-Stack
-Queue
-Binary Tree
-Binary Search Tree
-Heap
-Hashing
-Graph
-Array
-Matrix
+1. Linked List
+2. Stack
+3. Queue
+4. Binary Tree
+5. Binary Search Tree
+6. Heap
+7. Hashing
+8. Graph
+9. Array
+10. Matrix
 
 ##Algorithms
 Search − Algorithm to search an item in a datastructure.
